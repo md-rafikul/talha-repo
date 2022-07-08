@@ -1,3 +1,32 @@
 h1 {
     color: blue;
 }
+
+.style-donate {
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: rgb(255, 0, 21);
+    color: white;
+    font-weight: 700;
+    position: absolute;
+    bottom: 70px;
+    left: 100px;
+}
+
+section {
+    display: flex;
+}
+
+.first-text {
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+}
+
+.second-text {
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 5px;
+}
